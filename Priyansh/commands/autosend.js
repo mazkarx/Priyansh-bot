@@ -82,7 +82,7 @@ message: ['──── •💜• ────\n                𝐍𝐨𝐰 �
 },
 {
 timer: '6:00:00 PM',
-message: ['──── •💜• ────\n                𝐍𝐨𝐰 𝐢𝐭𝐬 𝐭𝐢𝐦𝐞 4:00 𝐏𝐌 ⏳                 دنیا جو تمہیں نہیں ملتی، خدا تمہیں دے سکتا ہے" - حضرت محمد ﷺ            What the world cannot give you, Allah can give you." - Prophet Muhammad ﷺ                                                     \nRASHID ALI\n──── •💜• ────']
+message: ['──── •💜• ────\n                𝐍𝐨𝐰 𝐢𝐭𝐬 𝐭𝐢𝐦𝐞 4:00 𝐏𝐌 ⏳                 دنیا جو تمہیں نہیں ملتی، خدا تمہیں دے سکتا ہے" - حضرت محمد ﷺ            What the world cannot give you, Allah can give you." - Prophet Muhammad ﷺ                                                     \nNihal Hacker\n──── •💜• ────']
 },
 {
 timer: '7:00:00 PM',
@@ -90,7 +90,7 @@ message: ['──── •💜• ────\n                𝐍𝐨𝐰 �
 },
 {
 timer: '8:00:00 PM',
-message: ['──── •💜• ────\n                𝐍𝐨𝐰 𝐢𝐭𝐬 𝐭𝐢𝐦𝐞 6:00 𝐏𝐌 ⏳             Taqwa insaan ko asal kamyaabi aur sakoon deta hai               \nRASHID ALI\N──── •💜• ────']
+message: ['──── •💜• ────\n                𝐍𝐨𝐰 𝐢𝐭𝐬 𝐭𝐢𝐦𝐞 6:00 𝐏𝐌 ⏳             Taqwa insaan ko asal kamyaabi aur sakoon deta hai               \nNihal hacker\N──── •💜• ────']
 },
 {
 timer: '9:00:00 PM',
@@ -98,7 +98,7 @@ message: ['──── •💜• ────\n                𝐍𝐨𝐰 �
 },
 {
 timer: '10:00:00 PM',
-message: ['──── •💜• ────\n                𝐍𝐨𝐰 𝐢𝐭𝐬 𝐭𝐢𝐦𝐞 8:00 𝐏𝐌 ⏳Mehnat aur dua ka muntazir rahain, jab tak kamyabi nahi milti.              \nRASHID ALI\n──── •💜• ────']
+message: ['──── •💜• ────\n                𝐍𝐨𝐰 𝐢𝐭𝐬 𝐭𝐢𝐦𝐞 8:00 𝐏𝐌 ⏳Mehnat aur dua ka muntazir rahain, jab tak kamyabi nahi milti.              \nNihal Hacker\n──── •💜• ────']
 },
 {
 timer: '11:00:00 PM',
