@@ -1,6 +1,6 @@
 const fs = require("fs");
 module.exports.config = {
-  name: "Rashid",
+  name: "Nihal",
   version: "1.0.1",
   hasPermssion: 0,
   credits: "𝙋𝙧𝙞𝙮𝙖𝙣𝙨𝙝 𝙍𝙖𝙟𝙥𝙪𝙩", 
@@ -12,9 +12,9 @@ module.exports.config = {
 
 module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
   var { threadID, messageID } = event;
-  if (event.body.indexOf("admin")==0 || event.body.indexOf("Admin")==0 || event.body.indexOf("Rashid")==0 || event.body.indexOf("Rashid")==0) {
+  if (event.body.indexOf("admin")==0 || event.body.indexOf("Admin")==0 || event.body.indexOf("Nihal")==0 || event.body.indexOf("Nihal")==0) {
     var msg = {
-        body: "🥀 🫅My Owner Rashid🫅 🥀",
+        body: "🥀 🫅My Owner Nihal🫅 🥀",
         attachment: 
 fs.createReadStream(__dirname + `/noprefix/1736612706499.jpg`)
       }
